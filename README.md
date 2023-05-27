@@ -3,7 +3,7 @@
 
 # Synopsis
 
-The purpose of this analysis is to determine key metrics about home sale data. Utilized PySpark and SparkSQL to create a temporary views, partition the data, cache and uncache a temporary table, and verify that the table has been uncached.
+The purpose of this analysis is to determine key metrics about home sale data. Utilized PySpark and SparkSQL to create temporary views, partition the data, cache and uncache a temporary table, and verify that the table has been uncached.
 
 # Data Preperation
 * Create a temporary table
