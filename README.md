@@ -16,4 +16,4 @@ The purpose of this analysis is to determine key metrics about home sale data. U
 * Verify that the temporary table is uncached using PySpark
 
 # Conclusion
-The runtime for the cached data took less time to run than the parquet data. Both the parquett and the cached data took less time to run than th uncached data. Overall, a cached data should be used to for a larger dataset because it was the fastest which will save time. 
+The runtime for the cached data took less time to run than the parquet data. Both the parquett and the cached data took less time to run than the uncached data. Overall, a cached data should be used to for a larger dataset because it was the fastest which will save time. 
